@@ -15,7 +15,7 @@ namespace textAdventure2
             first();
 
         }
-        /* this section will demonstrate writing to the console 6/11*/
+        /* this section will demonstrate writing to the console */
         public static void gameTitle()
         {
             Console.WriteLine("Hey this in the beginning of a text adventure game.");
@@ -25,7 +25,7 @@ namespace textAdventure2
             first();
 
         }
-        /* this section will demonstrate switches 6/11*/
+        /* this section will demonstrate switches */
         public static void first()
         {
             string choice;
@@ -86,7 +86,7 @@ namespace textAdventure2
                     }
             }
         }
-        /* this section will demonstrate using random number generator and also allowing player to enter text response 6/18*/
+        /* this section will demonstrate using random number generator and also allowing player to enter text response */
         public static void second()
         {
             Random rnd = new Random();
@@ -129,7 +129,7 @@ namespace textAdventure2
 
         }
 
-        /* this section demonstrates the use of loops 7/16/2019 */
+        /* this section demonstrates the use of loops */
 
         public static void third()
 
