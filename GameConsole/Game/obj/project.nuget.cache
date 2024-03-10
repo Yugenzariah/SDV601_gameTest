@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zi5GUjI7WXPvmJ6x9UAnWtNCbl3ZIdsBaCCFEpMLYdMnPU1inm14VofVFhqqmyr/1NUUfiGdgzKGKA5aFp5o7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\minit\\source\\repos\\SDV601_gameTest\\GameConsole\\Game\\Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\minit\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\minit\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\minit\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\minit\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
