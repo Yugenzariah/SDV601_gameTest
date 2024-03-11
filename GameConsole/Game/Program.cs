@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace textAdventure2
+namespace textAdventure
 {
     class Program
     {
