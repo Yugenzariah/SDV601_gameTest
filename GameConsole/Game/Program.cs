@@ -15,10 +15,22 @@ namespace textAdventure
             first();
 
         }
-        /* this section will demonstrate writing to the console */
+        /* Introduction to the game */
         public static void gameTitle()
         {
-            Console.WriteLine("Welcome to the Raze!");
+            Console.WriteLine("------------------------");
+            Console.WriteLine("|                      |");
+            Console.WriteLine("| WELCOME TO THE RAZE! |");
+            Console.WriteLine("|                      |");
+            Console.WriteLine("------------------------");
+            // Print backstory to the player
+            Console.WriteLine("After decades of being frozen, You wake up in a world no longer recognizable");
+            Console.WriteLine("You were once a renowned special force soldier tasked to stop a nuclear war");
+            Console.WriteLine("But due to a savage snowstorm you fell in the ocean which froze your body preserving it");
+            Console.WriteLine("Confused and baffled the only thing you can do now is to look for answers");
+            Console.WriteLine("But beware of the dangers that lies ahead of you");
+            Console.WriteLine("Your task is to survive and get to HQ.");
+            
             Console.WriteLine("Press 'Enter' to begin.");
             Console.ReadLine();
             Console.Clear();
