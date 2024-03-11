@@ -196,7 +196,7 @@ namespace textAdventure
             Console.Clear();
             Console.WriteLine("You have died.");
             Console.WriteLine("All is good in the multiverse and nature continues it's course.");
-            Console.WriteLine("The End?");
+            Console.WriteLine("The End.");
             Console.ReadLine();
             Console.Clear();
             gameTitle();
@@ -206,7 +206,7 @@ namespace textAdventure
         {
             Console.Clear();
             Console.WriteLine("You have survived.");
-            Console.WriteLine("A group of rangers spot you.");
+            Console.WriteLine("A group of survivors spot you and explains everything that has happened.");
             Console.WriteLine("You are saved.");
             Console.ReadLine();
             Console.Clear();
