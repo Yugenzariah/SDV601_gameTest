@@ -18,7 +18,7 @@ namespace textAdventure
         /* this section will demonstrate writing to the console */
         public static void gameTitle()
         {
-            Console.WriteLine("Hey this in the beginning of a text adventure game.");
+            Console.WriteLine("Welcome to the Raze!");
             Console.WriteLine("Press 'Enter' to begin.");
             Console.ReadLine();
             Console.Clear();
